@@ -168,8 +168,8 @@ The design decisions implemented in this repository are grounded in peer-reviewe
 Clone the repository and install required packages:
 
 ```bash
-git clone https://github.com/ababilkhoerulimam/breast-cancer-classification-hology-1.git
-cd breast-cancer-classification-hology-1
+git clone https://github.com/ababilkhoerulimam/breast-cancer-classification.git
+cd breast-cancer-classification
 pip install -r requirements.txt
 ```
 
