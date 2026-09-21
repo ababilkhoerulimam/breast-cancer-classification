@@ -216,3 +216,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Competition Datasets and Heavy Image Assets
+train_images/
+test_images/
+*.jpg
+*.jpeg
+
+# Model Checkpoints and Weights
+checkpoints/
+*.pth
+*.pt
+*.onnx
+
+# Submission Outputs
+submissions/
+submission*.csv
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
